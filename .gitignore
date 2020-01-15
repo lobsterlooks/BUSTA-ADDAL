@@ -14,12 +14,12 @@
 # Compiled Dynamic libraries
 *.so
 *.dylib
-*.dll
+*.dll.exe
 
 # Fortran module files
 *.mod
 *.smod
-
+¨¨C emx e cem cx t..he xet an totta
 # Compiled Static libraries
 *.lai
 *.la
