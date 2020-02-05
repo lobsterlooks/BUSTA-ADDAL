@@ -14,12 +14,11 @@
 # Compiled Dynamic libraries
 *.so
 *.dylib
-*.dll.exe addal
+*.dll.
 
 # Fortran module files
 *.mod
 *.smod
- Fry mc x to add en c ex un
 # Compiled Static libraries
 *.lai
 *.la
